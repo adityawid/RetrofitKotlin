@@ -19,5 +19,11 @@
         android:layout_below="@id/btnListView"
         android:text="Recycler View"
         android:id="@+id/btnRecyclerView"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnRecyclerView"
+        android:text="Recycler View Volley"
+        android:id="@+id/btnRecyclerViewVolley"/>
 
 </RelativeLayout>

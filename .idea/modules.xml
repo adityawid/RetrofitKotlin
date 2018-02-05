@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ListRecyclerKotlin.iml" filepath="$PROJECT_DIR$/ListRecyclerKotlin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file:///mnt/43cc6ea8-e5ee-4556-85bf-e3a61455ee9d/NIK_Studio/PROJECT/Kotlin/ListRecyclerKotlin/ListRecyclerKotlin.iml" filepath="/mnt/43cc6ea8-e5ee-4556-85bf-e3a61455ee9d/NIK_Studio/PROJECT/Kotlin/ListRecyclerKotlin/ListRecyclerKotlin.iml" />
+      <module fileurl="file:///mnt/43cc6ea8-e5ee-4556-85bf-e3a61455ee9d/NIK_Studio/PROJECT/Kotlin/ListRecyclerKotlin/app/app.iml" filepath="/mnt/43cc6ea8-e5ee-4556-85bf-e3a61455ee9d/NIK_Studio/PROJECT/Kotlin/ListRecyclerKotlin/app/app.iml" />
     </modules>
   </component>
 </project>

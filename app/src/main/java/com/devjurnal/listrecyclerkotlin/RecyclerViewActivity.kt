@@ -39,7 +39,8 @@ class RecyclerViewActivity : AppCompatActivity() {
 
 
 
-        // TODO (4) Callback >>>> Alt+Enter
+        // TODO (4) object>> pilih yang annonymous class
+        // ganti Callback >>>> Alt+Enter
         getRequest.enqueue(object : Callback<ResponseServer> {
             override fun onFailure(call: Call<ResponseServer>?, t: Throwable?) {
 //                TODO("not implemented") //To change body of created functions use File | Settings | File Templates.

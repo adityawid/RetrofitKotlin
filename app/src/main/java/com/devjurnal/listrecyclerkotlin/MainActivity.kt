@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         btnListView.setOnClickListener(this)
         btnRecyclerView.setOnClickListener(this)
+        btnRecyclerViewVolley.setOnClickListener(this)
     }
 
     override fun onClick(v: View?) {
@@ -28,6 +29,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         when(v){
             btnListView -> { startActivity(Intent(this, ListViewActivity::class.java))}
             btnRecyclerView ->{ startActivity(Intent(this, RecyclerViewActivity::class.java))}
+            btnRecyclerViewVolley -> {startActivity(Intent(this, RecyclerVolleyActivity::class.java))}
         }
     }
 

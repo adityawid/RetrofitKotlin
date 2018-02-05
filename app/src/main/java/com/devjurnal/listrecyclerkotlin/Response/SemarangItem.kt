@@ -17,7 +17,7 @@ data class SemarangItem(
 	val latitudeWisata: Double? = null,
 
 	@field:SerializedName("nama_wisata")
-	val namaWisata: String? = null,
+    var namaWisata: String? = null,
 
 	@field:SerializedName("gambar_wisata")
 	val gambarWisata: String? = null,
